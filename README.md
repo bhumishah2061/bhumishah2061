@@ -1,6 +1,8 @@
 # Bhumi Shah
 
-AI/ML-focused Computer Science undergraduate (KIIT) building GenAI, RAG and agentic AI systems, and turning business problems into working solutions.
+**AI/ML and Data Analyst | Building GenAI, RAG and agentic AI systems | Computer Science undergraduate at KIIT**
+
+I turn business problems into working AI solutions, from data and SQL analytics to LLM-powered applications.
 
 ## What I'm working on
 - **AI-Powered Data Analytics Assistant**: LLM-based SQL generation with PostgreSQL and auto-recommended charts (Python, Pandas, Plotly, Streamlit)
@@ -16,11 +18,11 @@ AI/ML-focused Computer Science undergraduate (KIIT) building GenAI, RAG and agen
 Co-author, "Ethically-Aware AI: Bias Correction via Counterfactual Explanations in ML", presented at IEEE ICCECP 2025, NIT Jamshedpur.
 
 ## Tech stack
-**Languages:** Python, SQL, C++  
+**Languages:** Python, SQL, Java, C++  
 **GenAI and agents:** LLMs, RAG, Prompt Engineering, LangGraph, Gemini API  
 **ML and data:** scikit-learn, Pandas, NumPy, PostgreSQL, FAISS, ChromaDB  
 **Tools:** Streamlit, Plotly, Power BI, UiPath Studio, RAGAS, PyTest, Git  
-**Course-level  knowlege:** applied machine learning
+**Currently learning:** applied machine learning
 
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/bhumishah09) · bhumishah201@gmail.com
