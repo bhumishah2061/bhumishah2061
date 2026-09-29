@@ -1,25 +1,26 @@
 # Bhumi Shah
 
-Computer Science undergraduate with a focus on applied AI, automation, and data-driven problem solving.
+AI/ML-focused Computer Science undergraduate (KIIT) building GenAI, RAG and agentic AI systems, and turning business problems into working solutions.
 
-## About
+## What I'm working on
+- **AI-Powered Data Analytics Assistant**: LLM-based SQL generation with PostgreSQL and auto-recommended charts (Python, Pandas, Plotly, Streamlit)
+- **TrueFit**: AI resume and job-fit analyzer using the Gemini API and structured-output prompting
+- Co-founding an e-commerce startup in Nepal, building the MVP with FlutterFlow and Firebase
 
-I build practical applications combining AI, automation, and data analysis. My recent work spans retrieval-augmented generation (RAG) systems, workflow automation, and early-stage product development.
+## Featured projects
+- **Study Buddy Physics**: agentic AI tutor with RAG, ChromaDB, memory and a self-evaluation loop, evaluated with RAGAS and PyTest
+- **Indian Law AI**: RAG-based legal assistant using BGE-M3 embeddings and FAISS
+- **AI-Powered HR Automation**: UiPath agentic workflow with human-in-the-loop approvals
 
-**Currently:**
-- Building an AI-assisted HR automation system and RAG-based applications using Python, FAISS, and ChromaDB
-- Co-founding an e-commerce startup in Nepal, developing the MVP with FlutterFlow and Firebase
-- Strengthening SQL and applied data analysis skills
+## Research
+Co-author, "Ethically-Aware AI: Bias Correction via Counterfactual Explanations in ML", presented at IEEE ICCECP 2025, NIT Jamshedpur.
 
-**Published research:**
-Co-author, "Ethically-Aware AI: Bias Correction via Counterfactual Explanation in ML" — IEEE ICCECP 2025
-
-## Technical Skills
-
-**Languages & Core:** Python, Java, C++, Data Structures & Algorithms, OOP, DBMS, Operating Systems
-**Tools & Libraries:** UiPath Studio, Pandas, NumPy, Scikit-learn, FAISS, ChromaDB, Streamlit
-**Currently learning:** SQL, applied machine learning
+## Tech stack
+**Languages:** Python, SQL, C++  
+**GenAI and agents:** LLMs, RAG, Prompt Engineering, LangGraph, Gemini API  
+**ML and data:** scikit-learn, Pandas, NumPy, PostgreSQL, FAISS, ChromaDB  
+**Tools:** Streamlit, Plotly, Power BI, UiPath Studio, RAGAS, PyTest, Git  
+**Course-level  knowlege:** applied machine learning
 
 ## Connect
-
-[LinkedIn](https://linkedin.com/in/bhumishah09) · bhumisah201@gmail.com
+[LinkedIn](https://www.linkedin.com/in/bhumishah09) · bhumishah201@gmail.com
